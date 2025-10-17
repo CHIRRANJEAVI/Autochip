@@ -1,1 +1,1 @@
-# This reppo is for Autochip importat purpose
+# This reppo is for Autochip import purpose
