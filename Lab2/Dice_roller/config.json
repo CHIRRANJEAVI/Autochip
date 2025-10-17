@@ -1,13 +1,13 @@
 {
 	"general": {
-        "prompt": "./shift_register.v",
+        "prompt": "./dice_roller.v",
         "name": "top_module",
-        "testbench": "./shift_register_tb.v",
+        "testbench": "./dice_roller_tb.v",
 		"model_family": "ChatGPT",
 		"model_id": "gpt-4o-mini",
 		"num_candidates": 5,
 		"iterations": 5,
-        "outdir": "outputs_shift_register",
+        "outdir": "outputs_dice_roller",
         "log": "log.txt",
 		"ensemble": false
     }
